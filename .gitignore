@@ -1,0 +1,7 @@
+build
+node_modules
+./database/*.db
+./database/*.js
+./src/*.js
+.env
+.env.test
